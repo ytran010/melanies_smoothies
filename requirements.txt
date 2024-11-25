@@ -1,3 +1,4 @@
+-c
 name: app_environment
 channels:
   - snowflake
